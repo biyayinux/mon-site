@@ -1,1 +1,1 @@
-<h1>Mon Site SSG</h1>
+<h1 class="text-red-600">Mon Site SSG</h1>
